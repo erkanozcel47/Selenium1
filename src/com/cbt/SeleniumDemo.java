@@ -13,7 +13,7 @@ public class SeleniumDemo {
 		
 		driver.get("http://google.com");
 		
-		driver.getCurrentUrl();
+		
 		
 		
 		
